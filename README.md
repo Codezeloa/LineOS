@@ -1,4 +1,4 @@
-# LineOS
+# LineOS WINDOWS 10 
 LINE OS BETA 0.01
 
 Hey, are you looking for a better OS for gaming e.t.c?
